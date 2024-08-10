@@ -1,0 +1,136 @@
+body{
+    background-color: #F4D03F;
+background-image: linear-gradient(132deg, #000000 0%, #16A085 100%);
+
+}
+.container{
+    width: 450px;
+    border: solid 1px white;
+    position: absolute;
+    left: 700px;
+    right: 500px;
+    height: 600px;
+    top: 28%;
+    border-radius: 30px;
+    box-shadow: 1px 1px 30px black;
+}
+.usernameinput{
+    border: transparent;
+    border-radius: 7px;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    width: 350px;
+    height: 40px;
+    background-color: #16A085;
+    border: 1px solid black;
+}
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Cairo:wght@200..1000&family=Caveat:wght@400..700&family=Tilt+Neon&family=Timmana&display=swap');
+
+h1{
+    font-family: "Tilt Neon", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "XROT" 0,
+    "YROT" 0;
+    color: white;
+}
+.passwordinput{
+    border: transparent;
+    border-radius: 7px;
+    position: absolute;
+    top: 300px;
+    left: 50px;
+    width: 350px;
+    height: 40px;
+    background-color: #16A085;
+    border: 1px solid black;
+}
+.facebooklogin{
+    position: relative;
+    top: 400px;
+    left: 100px;
+    
+}
+.githublogin{
+    position: relative;
+    top: 400px;
+    left: 100px;
+}
+.linkedinlogin{
+    position: relative;
+    top: 400px;
+    left: 100px;
+}
+.googlelogin{
+    position: relative;
+    top: 397.5px;
+    left: 100px;
+    height: 43px;
+    width: 43px;
+
+}
+.loginways{
+    margin-left: 28px;
+}
+.loginbutton{
+    border: transparent;
+    background-color: transparent;
+    
+    position: absolute;
+    top: 520px;
+    left: 13%;
+    height: 40px;
+    width: 150px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 10px black;
+
+}
+.createbutton{
+    border: transparent;
+    background-color: transparent;
+    
+    position: absolute;
+    top: 520px;
+    left: 55%;
+    height: 40px;
+    width: 150px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 10px black;
+
+}
+.logo1{
+    height: 140px;
+    width: 140px;
+    left: 160px;
+    position: absolute;
+    top: 35px;
+    text-shadow: #000000 1px 1px 10px ;
+}
+.privacy{
+    position: absolute;
+    top: 480px;
+    left: 90px;
+    border-radius: 10px;
+}
+h2{
+    font-size: small;
+    color: white;
+    position: absolute;
+    top: 472.3px;
+    font-family: sans-serif;
+    left: 120px;
+}
+button{
+    cursor: pointer;
+}
+.forgotpassword{
+    color: green;
+    position: absolute;
+    top: 340px;
+    left: 60px;
+    font-size: smaller;
+    cursor: pointer;
+}
